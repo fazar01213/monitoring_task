@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data_task.csv
+anggota_tim.json
+.env
